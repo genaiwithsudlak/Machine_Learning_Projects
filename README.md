@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book Recommender
 
 This repository contains an end-to-end, GitHub-ready Book Recommender project using content-based filtering (TF-IDF).
@@ -24,3 +25,6 @@ This repository contains an end-to-end, GitHub-ready Book Recommender project us
    streamlit run app.py
    ```
 
+=======
+# Machine_Learning_Projects
+>>>>>>> 360b28ebbfbfd155ef7c2eff6cc54addf3360328
